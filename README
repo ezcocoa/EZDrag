@@ -3,4 +3,5 @@ created : 2011. 1. 6
 description : 
 OnTouchListener 인터페이스를 이용한 샘플.
 
+이동 이벤트와 터치 이벤트 구분.
 
